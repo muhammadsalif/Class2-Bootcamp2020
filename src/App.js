@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Updating As Salif.</p>
+        <p>Updating File Salif.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
